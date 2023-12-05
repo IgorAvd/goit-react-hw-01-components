@@ -1,4 +1,3 @@
-import PropTypes from 'prop-types';
 import { Container, InfoList, InfoListItem } from './Statistics.styled';
 
 export const Statistics = ({ title, stats }) => {
